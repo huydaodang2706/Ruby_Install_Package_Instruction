@@ -1,0 +1,2 @@
+1. Fix bug for sudo apt-get update on ubuntu 18.04
+https://askubuntu.com/questions/65911/how-can-i-fix-a-404-error-when-using-a-ppa-or-updating-my-package-lists
